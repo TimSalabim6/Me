@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaddyFocus
-- 🌱 I’m currently learning C# / Unreal Engine
+- 🌱 I’m currently learning C++ / Unreal Engine
 
 <!---
 DaddyFocus/DaddyFocus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
